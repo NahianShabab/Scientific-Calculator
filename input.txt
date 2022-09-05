@@ -1,0 +1,4 @@
+sin(30)*sin(30)+cos(30)*cos(30)
+sin(-pi/6)
+tan(pi/4)
+3+4/5
